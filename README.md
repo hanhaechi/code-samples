@@ -4,6 +4,8 @@
 * see actual and probable studio staff utilization per department (= fin health)
 
 This sample relates to backend code for department dashboard (landing page of the app) that I worked on. 
+<br>
+![Department Dashboard](https://github.com/hanhaechi/code-samples/blob/master/Dept.Dashboard.png)
 
 **BACKGROUNDER**
 <br>
@@ -56,6 +58,9 @@ Front end would be expecting an array of department data and a weeklyTotals obje
 **CHALLENGES**
 1. Date management: the only requirement for the front end was to send date string in format 'YYYY-MM-DD'. Backend should determine the Monday of that week, calculate the end date (Sunday of the W8), and the Mondays in between. For simplicity, chose to work with Moment.js library
 2. Gathering data by querying 3 tables (as I've never worked with databases and had no idea what can I get from Sequelize :)
+<br>
+![Project ERD](https://github.com/hanhaechi/code-samples/blob/master/Forest_ERD.png)
+<br>
 3. Process: deciding what should be done in controller and what should 'live' in a service function. 
 4. Testing: writing Jest tests and remembering to run them every time I've changed something. Eventually learned that reading through tests before I even get into somebody's code is such a great way to understand what code does (and shouldn't do). 
 
