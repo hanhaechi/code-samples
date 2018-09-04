@@ -3,7 +3,7 @@
 * enabling sales to log current and upcoming project/opportunities 
 * see actual and probable studio staff utilization per department (= fin health)
 
-This sample relates to backend code for department dashboard (landing page of the app) that I worked on.
+This sample relates to backend code for department dashboard (landing page of the app) that I worked on. 
 
 **BACKGROUNDER**
 <br>
