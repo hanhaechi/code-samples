@@ -1,4 +1,4 @@
-**Prototype of an internal development/design studio tool serving two major goals:**
+**PROTOTYPE of an internal development/design studio tool serving two major goals:**
 <br>
 * enabling sales to log current and upcoming project/opportunities 
 * see actual and probable studio staff utilization per department (= fin health)
@@ -66,3 +66,4 @@ The flow
 2. By default get all the departments with resources active during the specified dates.
 3. Map through departments to select all the resources, place them under the correct week bracket, calculate utilization percentage
 4. Calculate WeeklyTotals
+5. Celebrate once all the pieces came to work :tada: :clinking_glasses: :100:
