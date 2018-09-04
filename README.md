@@ -8,7 +8,9 @@ This sample relates to backend code for department dashboard (landing page of th
 <br>
 ![Department Dashboard](https://github.com/hanhaechi/code-samples/blob/master/Dept.Dashboard.png)
 <br>
-Project ERD
+**Project ERD**
+<br>
+<br>
 ![ERD](https://github.com/hanhaechi/code-samples/blob/master/Forest_ERD.png)
 
 **BACKGROUNDER**
